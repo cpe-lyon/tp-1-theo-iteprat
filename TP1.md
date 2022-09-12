@@ -74,5 +74,5 @@ Commandes importantes
 ## Exercice 4 - Personnalisation du shell 
 
 Questions 1 à 3 sont le test de commandes 
-4. \A[\033[01;35m] - \u@\h[\033[32m]:[\033[01;34m]\w[\033[36m]$
+
 
